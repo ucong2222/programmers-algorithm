@@ -17,10 +17,11 @@ https://programmers.co.kr/learn/courses/30/lessons/42862?language=java
 
 #### 예시
 ##### 입력 및 출력
-|absolutes|signs|
-|----|----|
-|[4,7,12]|[true,false, true]|
-|[1,2,3]|[false, false, true]|
+|n|lost|reserve|return|
+|----|----|----|----|
+|5|[2,4]|[1,3,5]|5|
+|5|[2,4]|[3]|4|
+|3|[3]|[1]|2|
 
 
 <span>*집고 넘어 갑시다!*</span></br>
